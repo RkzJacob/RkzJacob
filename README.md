@@ -8,14 +8,22 @@
 - Developer fullstack
 
 ## Skills
-- ReactJS     -sdfshd
-- Typescript
-- JavaScript
-- Graphql
-- - NodeJS
-- Mysql
-- NestJs
-- TypeORM
-- Sequelize
+ # Frontend
+   - ReactJS
+   - TypeScript
+   - Javascript
+   - ApolloClient
+   - Css
+# Backend 
+  - NodeJS
+  - GraphQL
+  - TypeORM
+  - Sequelize
+  - Django
+# DataBase
+  - Mysql
+  - FireStore
+  - PostgreSQL
+  - SQLServer
 
   
