@@ -4,23 +4,23 @@
 
 <img src="https://github.com/RkzJacob/RkzJacob/blob/main/Jacob%20Ponce%20Suazo.jpg?raw=true">
 
-## Sobre mi
+# Sobre mi
 - Developer fullstack
 
-## Skills
- # Frontend
+# Skills
+ ## Frontend
    - ReactJS
    - TypeScript
    - Javascript
    - ApolloClient
    - Css
-# Backend 
+## Backend 
   - NodeJS
   - GraphQL
   - TypeORM
   - Sequelize
   - Django
-# DataBase
+## DataBase
   - Mysql
   - FireStore
   - PostgreSQL
