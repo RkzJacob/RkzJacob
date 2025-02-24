@@ -6,3 +6,15 @@
 
 ## Sobre mi
 - Developer fullstack
+
+## Skills
+- ReactJS
+- Typescript
+- JavaScript
+- Graphql
+- NodeJS
+- Mysql
+- NestJs
+- TypeORM
+- Sequelize
+  
