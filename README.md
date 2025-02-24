@@ -14,6 +14,7 @@
    - Javascript
    - ApolloClient
    - Css
+   - Html5
 ## Backend 
   - NodeJS
   - GraphQL
