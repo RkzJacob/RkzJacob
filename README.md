@@ -2,7 +2,7 @@
   <h1 align="center"> Hi ,i'm <a href="">Jacob Ponce Suazo </a> </h1>
 </div>
 
-<img src="https://drive.google.com/file/d/1VsI4F3rE5na6M6nSFfD9wKVLuxTKmoXZ/view?usp=drive_link">
+<img src="">
 
 <!--
 **RkzJacob/RkzJacob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
