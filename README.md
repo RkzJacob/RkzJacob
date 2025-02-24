@@ -4,4 +4,5 @@
 
 <img src="https://github.com/RkzJacob/RkzJacob/blob/main/Jacob%20Ponce%20Suazo.jpg?raw=true">
 
-# Developer fullstack
+## Sobre mi
+- Developer fullstack
